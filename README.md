@@ -8,13 +8,13 @@ in that position.
 
 The module offers the following list of operations:
 
--> matrix creation
--> matrix print
--> get matrix dimensions
--> read value from matrix
--> write value in matrix
--> matrix sum, difference
--> matrix multiplication
--> create unity matrix
--> create null matrix
--> get the transposed matrix
+-> matrix creation  
+-> matrix print  
+-> get matrix dimensions  
+-> read value from matrix  
+-> write value in matrix  
+-> matrix sum, difference  
+-> matrix multiplication  
+-> create unity matrix  
+-> create null matrix  
+-> get the transposed matrix  
