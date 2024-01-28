@@ -2,9 +2,11 @@ A simple implementation for a module that handles 3D sparse matrices of real num
 
 A matrix is considered sparse if the number of its non zero elements is smaller than half of the total
 number of stored values.
-We represent the matrix by saving only the non null values, specified as tuple of form <i, j, k, v>, where
-i = the x axis coordinate, j = the y axis coordinate, k = the z axis coordinate and v = the value stored
-in that position.
+We represent the matrix by saving only the non null values, specified as tuple of form <i, j, k, v>, where:
+i = the x axis coordinate  
+j = the y axis coordinate  
+k = the z axis coordinate  
+v = the value stored in that position
 
 The module offers the following list of operations:
 
