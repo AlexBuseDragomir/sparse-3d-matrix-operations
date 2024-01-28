@@ -1,4 +1,4 @@
-A simple implementation for a module for 3D sparse matrices of real numbers.
+A simple implementation for a module that handles 3D sparse matrices of real numbers.
 
 A matrix is considered sparse if the number of its non zero elements is smaller than half of the total
 number of stored values.
